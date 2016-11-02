@@ -80,7 +80,7 @@
       }
 
       // Check if all required attributes set
-      var missingAttributes = getMissingAttributes(verseMeta, ['name', 'title', 'year', 'mood']);
+      var missingAttributes = getMissingAttributes(verseMeta, ['name', 'title', 'year', 'mood', 'isWellKnown']);
       if (missingAttributes.length) {
         reportValidationError('verse\'s "meta.json" is not full, next attributes are missing: ' + missingAttributes.join(', '));
       }
