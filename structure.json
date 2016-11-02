@@ -127,6 +127,7 @@
       "title": "Ночь, улица, фонарь, аптека…",
       "year": 1912,
       "mood": "sad",
+      "isWellKnown": true,
       "authorName": "blok-a-a"
     },
     {
@@ -135,6 +136,7 @@
       "description": "(Да! Теперь решено. Без возврата)",
       "year": 1922,
       "mood": "sad",
+      "isWellKnown": true,
       "authorName": "esenin-s-a"
     },
     {
@@ -142,6 +144,7 @@
       "title": "Мне осталась одна забава",
       "year": 1923,
       "mood": "active",
+      "isWellKnown": true,
       "authorName": "esenin-s-a"
     },
     {
@@ -149,6 +152,7 @@
       "title": "Не жалею, не зову, не плачу",
       "year": 1921,
       "mood": "sad",
+      "isWellKnown": true,
       "authorName": "esenin-s-a"
     },
     {
@@ -156,6 +160,7 @@
       "title": "Отговорила роща золотая",
       "year": 1924,
       "mood": "sad",
+      "isWellKnown": true,
       "authorName": "esenin-s-a"
     },
     {
@@ -163,6 +168,7 @@
       "title": "Письмо матери",
       "year": 1924,
       "mood": "calm",
+      "isWellKnown": true,
       "authorName": "esenin-s-a"
     },
     {
@@ -170,6 +176,7 @@
       "title": "Я пришел к тебе с приветом...",
       "year": 1843,
       "mood": "happy",
+      "isWellKnown": true,
       "authorName": "fet-a-a"
     },
     {
@@ -177,6 +184,7 @@
       "title": "Бородино",
       "year": 1837,
       "mood": "active",
+      "isWellKnown": true,
       "authorName": "lermontov-m-yu"
     },
     {
@@ -184,6 +192,7 @@
       "title": "Парус",
       "year": 1832,
       "mood": "calm",
+      "isWellKnown": true,
       "authorName": "lermontov-m-yu"
     },
     {
@@ -191,6 +200,7 @@
       "title": "Выхожу один я на дорогу",
       "year": 1841,
       "mood": "calm",
+      "isWellKnown": true,
       "authorName": "lermontov-m-yu"
     },
     {
@@ -199,6 +209,7 @@
       "description": "(отрывок)",
       "year": 1825,
       "mood": "happy",
+      "isWellKnown": true,
       "authorName": "pushkin-a-s"
     },
     {
@@ -207,6 +218,7 @@
       "description": "Из поэмы \"Руслан и Людмила\"",
       "year": 1820,
       "mood": "calm",
+      "isWellKnown": true,
       "authorName": "pushkin-a-s"
     },
     {
@@ -214,6 +226,7 @@
       "title": "Узник",
       "year": 1822,
       "mood": "sad",
+      "isWellKnown": true,
       "authorName": "pushkin-a-s"
     },
     {
@@ -222,6 +235,7 @@
       "description": "Exegi monumentum",
       "year": 1836,
       "mood": "calm",
+      "isWellKnown": true,
       "authorName": "pushkin-a-s"
     },
     {
@@ -230,6 +244,7 @@
       "description": "(Я помню чудное мгновенье)",
       "year": 1825,
       "mood": "happy",
+      "isWellKnown": true,
       "authorName": "pushkin-a-s"
     },
     {
@@ -237,6 +252,7 @@
       "title": "Я вас любил: любовь еще, быть может...",
       "year": 1829,
       "mood": "sad",
+      "isWellKnown": true,
       "authorName": "pushkin-a-s"
     },
     {
@@ -244,6 +260,7 @@
       "title": "Зимнее утро",
       "year": 1829,
       "mood": "happy",
+      "isWellKnown": true,
       "authorName": "pushkin-a-s"
     },
     {
@@ -251,6 +268,7 @@
       "title": "Зимний вечер",
       "year": 1825,
       "mood": "calm",
+      "isWellKnown": true,
       "authorName": "pushkin-a-s"
     },
     {
@@ -259,6 +277,7 @@
       "description": "Из далекого детства...",
       "year": 1969,
       "mood": "happy",
+      "isWellKnown": true,
       "authorName": "test-a-t"
     },
     {
@@ -266,6 +285,7 @@
       "title": "Чародейкою Зимою…",
       "year": 1852,
       "mood": "happy",
+      "isWellKnown": true,
       "authorName": "tyutchev-f-i"
     },
     {
@@ -273,6 +293,7 @@
       "title": "Весенняя гроза",
       "year": 1828,
       "mood": "happy",
+      "isWellKnown": true,
       "authorName": "tyutchev-f-i"
     },
     {
@@ -281,6 +302,7 @@
       "description": "(Я встретил вас...)",
       "year": 1870,
       "mood": "calm",
+      "isWellKnown": true,
       "authorName": "tyutchev-f-i"
     }
   ]
