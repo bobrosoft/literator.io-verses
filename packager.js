@@ -130,7 +130,7 @@
    */
   function reportValidationError(text) {
     console.error('ERROR: ' + text);
-    process.exit();
+    process.exit(1);
   }
 
   /**

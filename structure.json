@@ -61,6 +61,21 @@
       ]
     },
     {
+      "name": "mayakovskij-v-v",
+      "fullName": "Маяковский Владимир Владимирович",
+      "shortName": "Маяковский В. В.",
+      "birthYear": 1893,
+      "deathYear": 1930,
+      "wikiLink": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%8F%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "originCountry": "ru",
+      "studiedInCountries": [
+        "ru",
+        "ua",
+        "by",
+        "kz"
+      ]
+    },
+    {
       "name": "nekrasov-n-a",
       "fullName": "Некрасов Николай Алексеевич",
       "shortName": "Некрасов Н. А.",
@@ -99,10 +114,7 @@
       "wikiLink": "http://bobrosoft.com",
       "originCountry": "ru",
       "studiedInCountries": [
-        "ru",
-        "ua",
-        "by",
-        "kz"
+        "ru"
       ]
     },
     {
@@ -123,11 +135,43 @@
   ],
   "verses": [
     {
+      "name": "devushka-pela-v-cerkovnom-hore",
+      "title": "Девушка пела в церковном хоре",
+      "year": 1905,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "blok-a-a"
+    },
+    {
+      "name": "neznakomka",
+      "title": "Незнакомка",
+      "year": 1906,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "blok-a-a"
+    },
+    {
       "name": "noch-ulica-fonar-apteka",
       "title": "Ночь, улица, фонарь, аптека…",
       "year": 1912,
       "mood": "sad",
       "isWellKnown": true,
+      "authorName": "blok-a-a"
+    },
+    {
+      "name": "o-doblestyah-o-podvigah",
+      "title": "О доблестях, о подвигах, о славе...",
+      "year": 1908,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "blok-a-a"
+    },
+    {
+      "name": "predchuvstvuyu-tebya",
+      "title": "Предчувствую Тебя. Года проходят мимо...",
+      "year": 1901,
+      "mood": "sad",
+      "isWellKnown": false,
       "authorName": "blok-a-a"
     },
     {
@@ -164,12 +208,60 @@
       "authorName": "esenin-s-a"
     },
     {
+      "name": "pesn-o-sobake",
+      "title": "Песнь о собаке",
+      "year": 1915,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "esenin-s-a"
+    },
+    {
       "name": "pismo-materi",
       "title": "Письмо матери",
       "year": 1924,
       "mood": "calm",
       "isWellKnown": true,
       "authorName": "esenin-s-a"
+    },
+    {
+      "name": "poj-zhe-poj-na-proklyatoj-gitare",
+      "title": "Пой же, пой. На проклятой гитаре",
+      "year": 1923,
+      "mood": "happy",
+      "isWellKnown": false,
+      "authorName": "esenin-s-a"
+    },
+    {
+      "name": "vytkalsya-na-ozere",
+      "title": "Выткался на озере алый свет зари",
+      "year": 1910,
+      "mood": "happy",
+      "isWellKnown": false,
+      "authorName": "esenin-s-a"
+    },
+    {
+      "name": "ya-obmanyvat-sebya-ne-stanu",
+      "title": "Я обманывать себя не стану",
+      "year": 1922,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "esenin-s-a"
+    },
+    {
+      "name": "na-zare-ty-eyo-ne-budi",
+      "title": "На заре ты её не буди…",
+      "year": 1842,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "fet-a-a"
+    },
+    {
+      "name": "shepot-robkoe-dyhane",
+      "title": "Шепот, робкое дыханье",
+      "year": 1850,
+      "mood": "happy",
+      "isWellKnown": false,
+      "authorName": "fet-a-a"
     },
     {
       "name": "ya-prishel-k-tebe-s-privetom",
@@ -188,11 +280,59 @@
       "authorName": "lermontov-m-yu"
     },
     {
+      "name": "i-skuchno-i-grustno",
+      "title": "И скучно и грустно",
+      "year": 1840,
+      "mood": "sad",
+      "isWellKnown": false,
+      "authorName": "lermontov-m-yu"
+    },
+    {
+      "name": "kavkaz",
+      "title": "Кавказ",
+      "year": 1830,
+      "mood": "happy",
+      "isWellKnown": false,
+      "authorName": "lermontov-m-yu"
+    },
+    {
       "name": "parus",
       "title": "Парус",
       "year": 1832,
       "mood": "calm",
       "isWellKnown": true,
+      "authorName": "lermontov-m-yu"
+    },
+    {
+      "name": "prorok",
+      "title": "Пророк",
+      "year": 1841,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "lermontov-m-yu"
+    },
+    {
+      "name": "proshchaj-nemytaya-rossiya",
+      "title": "Прощай, немытая Россия",
+      "year": 1841,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "lermontov-m-yu"
+    },
+    {
+      "name": "rodina",
+      "title": "Родина",
+      "year": 1841,
+      "mood": "happy",
+      "isWellKnown": false,
+      "authorName": "lermontov-m-yu"
+    },
+    {
+      "name": "smert-poehta",
+      "title": "Смерть поэта",
+      "year": 1837,
+      "mood": "sad",
+      "isWellKnown": false,
       "authorName": "lermontov-m-yu"
     },
     {
@@ -204,12 +344,86 @@
       "authorName": "lermontov-m-yu"
     },
     {
+      "name": "stihi-o-sovetskom-pasporte",
+      "title": "Стихи о советском паспорте",
+      "year": 1929,
+      "mood": "active",
+      "isWellKnown": false,
+      "authorName": "mayakovskij-v-v"
+    },
+    {
+      "name": "mat",
+      "title": "Мать",
+      "year": 1868,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "nekrasov-n-a"
+    },
+    {
+      "name": "prorok",
+      "title": "Пророк",
+      "year": 1874,
+      "mood": "sad",
+      "isWellKnown": false,
+      "authorName": "nekrasov-n-a"
+    },
+    {
+      "name": "trojka",
+      "title": "Тройка",
+      "year": 1846,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "nekrasov-n-a"
+    },
+    {
+      "name": "zamolkni-muza-mesti",
+      "title": "* * *",
+      "description": "(Замолкни, Муза мести и печали...)",
+      "year": 1855,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "nekrasov-n-a"
+    },
+    {
+      "name": "bezumnyh-let-ugasshee",
+      "title": "Элегия",
+      "description": "(Безумных лет угасшее веселье...)",
+      "year": 1830,
+      "mood": "sad",
+      "isWellKnown": false,
+      "authorName": "pushkin-a-s"
+    },
+    {
+      "name": "chto-v-imeni-tebe-moem",
+      "title": "Что в имени тебе моем",
+      "year": 1830,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "pushkin-a-s"
+    },
+    {
       "name": "evgenij-onegin",
       "title": "Евгений Онегин",
       "description": "(отрывок)",
       "year": 1825,
       "mood": "happy",
       "isWellKnown": true,
+      "authorName": "pushkin-a-s"
+    },
+    {
+      "name": "fontanu-bahchisarajskogo-dvorca",
+      "title": "Фонтану Бахчисарайского дворца",
+      "year": 1824,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "pushkin-a-s"
+    },
+    {
+      "name": "prorok",
+      "title": "Пророк",
+      "year": 1826,
+      "mood": "calm",
+      "isWellKnown": false,
       "authorName": "pushkin-a-s"
     },
     {
@@ -227,6 +441,14 @@
       "year": 1822,
       "mood": "sad",
       "isWellKnown": true,
+      "authorName": "pushkin-a-s"
+    },
+    {
+      "name": "vo-glubine-sibirskih-rud",
+      "title": "Во глубине сибирских руд",
+      "year": 1827,
+      "mood": "calm",
+      "isWellKnown": false,
       "authorName": "pushkin-a-s"
     },
     {
@@ -272,6 +494,14 @@
       "authorName": "pushkin-a-s"
     },
     {
+      "name": "prozimnyaya-dorogarok",
+      "title": "Зимняя дорога",
+      "year": 1826,
+      "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "pushkin-a-s"
+    },
+    {
       "name": "test",
       "title": "Винни-Пух",
       "description": "Из далекого детства...",
@@ -284,6 +514,39 @@
       "name": "charodejkoyu-zimoyu",
       "title": "Чародейкою Зимою…",
       "year": 1852,
+      "mood": "happy",
+      "isWellKnown": true,
+      "authorName": "tyutchev-f-i"
+    },
+    {
+      "name": "dekabrskoe-utro",
+      "title": "Декабрьское утро",
+      "year": 1866,
+      "mood": "happy",
+      "isWellKnown": false,
+      "authorName": "tyutchev-f-i"
+    },
+    {
+      "name": "ehti-bednye-selenya",
+      "title": "Эти бедные селенья...",
+      "year": 1855,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "tyutchev-f-i"
+    },
+    {
+      "name": "silentium",
+      "title": "Silentium!",
+      "description": "(Молчание)",
+      "year": 1830,
+      "mood": "calm",
+      "isWellKnown": false,
+      "authorName": "tyutchev-f-i"
+    },
+    {
+      "name": "umom-rossiyu-ne-ponyat",
+      "title": "Умом Россию не понять…",
+      "year": 1866,
       "mood": "happy",
       "isWellKnown": true,
       "authorName": "tyutchev-f-i"
@@ -302,6 +565,14 @@
       "description": "(Я встретил вас...)",
       "year": 1870,
       "mood": "calm",
+      "isWellKnown": true,
+      "authorName": "tyutchev-f-i"
+    },
+    {
+      "name": "zima-nedarom-zlitsya",
+      "title": "Зима недаром злится…",
+      "year": 1836,
+      "mood": "happy",
       "isWellKnown": true,
       "authorName": "tyutchev-f-i"
     }
