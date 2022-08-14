@@ -1,6 +1,6 @@
-# [Literator.io](http://literator.io)
+# [Literator.io](https://bobrosoft.github.io/literator.io)
 
-Web App: [literator.io](http://literator.io) (mirror: http://bobrosoft.github.io/literator.io/)
+Web App: [literator.io](https://bobrosoft.github.io/literator.io)
 
 App repository: https://github.com/bobrosoft/literator.io
 
